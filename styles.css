@@ -19,7 +19,7 @@ footer {
 }
 
 h1 {
-  font-family: 'Press Start 2P', cursive;
+  font-family: sans-serif;
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .text {
-  font-family: 'Press Start 2P', cursive;
+  font-family: sans-serif;
   font-size: 1.5rem;
   margin:  5%;
   color: #FEF2BF;
@@ -35,7 +35,7 @@ h1 {
 }
 
 .essay {
-  font-family: 'Press Start 2P', cursive;
+  font-family: sans-serif;
   font-size: 1rem;
   margin:  5%;
   color: #FEF2BF;
@@ -44,7 +44,7 @@ h1 {
 
 .list{
   text-align: left;
-  font-family: 'Press Start 2P', cursive;
+  font-family: sans-serif;
   font-weight: bold;
   margin:  5%;
   color: #FEF2BF;
@@ -52,7 +52,7 @@ h1 {
 
 .josephlast{
   text-align: right;
-  font-family: 'Press Start 2P', cursive;
+  font-family: sans-serif;
   font-weight: bold;
   margin:  5%;
   color: #FEF2BF;
@@ -67,7 +67,6 @@ a {
   display: block;
   width: 50%;
   margin: auto;
-
 }
 
 .btn {
