@@ -6,7 +6,7 @@ var level = 0;
 
 var started = false;
 
-$('.btn').click(function(){
+$(document).click(function(){
   if (!started){
   $('#level-title').text('Level ' + level);
   nextSequence();
