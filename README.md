@@ -30,7 +30,7 @@ This is a classic **Simon Game** built using **HTML, CSS, and JavaScript**. The 
 
 ## INSTALLATION AND SETUP    
 ### 1️⃣ Clone the Repository          
-git clone https://github.com/yourusername/simon-game.git        
+git clone https://github.com/JOSEPHLAST/simon-game.git        
 cd simon-game        
 
 ### 2️⃣ Open in Browser
