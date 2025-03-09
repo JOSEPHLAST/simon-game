@@ -54,8 +54,8 @@ Simply open the index.html file in your browser to start playing.
 ✨ Add different difficulty levels.  
 
 ## **CONNECT WITH ME**
-🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)
-🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)
-🔗 LinkedIn: [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)
+🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)   
+🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)   
+🔗 LinkedIn: [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)   
 
 ***🟢🔴🔵🟡 “Test your memory and see how far you can go!”***
